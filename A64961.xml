@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral sermon occasioned by the death of Mr. George Baker first preached and then published, at the earnest desire of his relations, by Nathanael Vincent ...</title>
+            <author>Vincent, Nathanael, 1639?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64961</idno>
+            <idno type="STC">Wing V407</idno>
+            <idno type="STC">ESTC R34724</idno>
+            <idno type="EEBO-CITATION">14575509</idno>
+            <idno type="OCLC">ocm 14575509</idno>
+            <idno type="VID">102641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102641)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1077:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral sermon occasioned by the death of Mr. George Baker first preached and then published, at the earnest desire of his relations, by Nathanael Vincent ...</title>
+                  <author>Vincent, Nathanael, 1639?-1697.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baker, George, d. 1679.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102641:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Funeral</hi> SERMON: Occaſioned by the death of Mr. <hi>GEORGE BAKER.</hi> Firſt Preached And then Publiſhed, at the earneſt deſire of his Relations. By <hi>Nathanael Vincent</hi> M. A. Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Thomas Parkhurſt</hi> at the <hi>Three Bibles</hi> and <hi>Crown</hi> at the lower end of <hi>Cheapſide,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:102641:2"/>
+            <pb n="1" facs="tcp:102641:2" rendition="simple:additions"/>
+            <head>A Funeral Sermon.</head>
+            <epigraph>
+               <bibl>1 Pet. 1. 17. latter part.</bibl>
+               <q>Paſs the time of your Sojourning here in Fear.</q>
+            </epigraph>
+            <p>THE Perſons to whom this Epiſtle was written, are ſtiled <hi>Strangers;</hi> and Strangers they were, both in regard of their <hi>preſent Diſperſion,</hi> being ſcattered up and down the Kingdoms of the Gen<g ref="char:EOLhyphen"/>tiles; and alſo in regard of their <hi>Spiritual Condition,</hi> being Pilgrims and Sojourners in the World. The Apoſtle in this Chapter does both comfort them with the hope of what they were to enjoy hereafter, and counſel them how they ſhould carry themſelves during their abode here.</p>
+            <p>Firſt, He comforts them with the hope of what they were to enjoy hereafter. He tells them that being <hi>begotten again to a lively Hope by the Reſurrection of Chriſt from the dead;</hi> they were the Heirs of God, to an <hi>Inheritance, incorruptible, undefiled, and that will never fade away, reſerved in Heaven for them;</hi> and aſſures them that they ſhall be <hi>kept by the Power of God through faith unto ſalvation.</hi> Notwithſtanding therefore all their trials and temptations which were apt to occaſion heavineſs, they had reaſon to rejoice <hi>with joy un<g ref="char:EOLhyphen"/>ſpeakable and full of Glory.</hi>
+            </p>
+            <p>Secondly, He Counſels them how they ought to carry themſelves during their abode here. They muſt not <hi>faſhion
+<pb n="2" facs="tcp:102641:3"/> themſelves according to the former luſts in their ignorance.</hi> As He that called them is Holy, ſo <hi>muſt they be Holy in all man<g ref="char:EOLhyphen"/>ner of Converſation.</hi> They muſt <hi>call on the Father</hi> giving them<g ref="char:EOLhyphen"/>ſelves to prayer. They muſt never be unmindful of the day of Judgment which will be ſtrict, <hi>without reſpect of perſons,</hi> and according <hi>to every mans work,</hi> and they muſt be ſure <hi>to paſs the time of their ſojourning here in fear.</hi>
+            </p>
+            <p>In the words we have</p>
+            <list>
+               <item>I. A Direction how to paſs our Time, and that is <hi>in Fear.</hi>
+               </item>
+               <item>II. The Reaſon, which is twofold.
+<list>
+                     <item>1. 'Tis a time of <hi>Sojourning,</hi> not of any long continuance.</item>
+                     <item>2. 'Tis a time of ſojourning <hi>here</hi> in the World, which is a place full of Sin, and Snares, and Enemies; and therefore the greater fear and care is requiſite.</item>
+                  </list>
+               </item>
+            </list>
+            <p>I raiſe from the Text three Doctrines.</p>
+            <list>
+               <item>Firſt, <hi>While we are here in this world, Time is afforded us.</hi>
+               </item>
+               <item>Secondly, <hi>A Chriſtians Time, is but a time of Sojourning.</hi>
+               </item>
+               <item>Thirdly, <hi>Our time of ſojourning is to be paſt in Fear.</hi>
+               </item>
+            </list>
+            <p>Doct. I. I begin with the firſt of theſe. <hi>While we are here in this world Time is afforded us.</hi>
+            </p>
+            <p>In the handling of this Doctrine, I ſhall firſt tell you how the Scripture deſcribes that Time which is afforded, and then inform you, to what end it is afforded; and then make ſome Application.</p>
+            <p>In the firſt place I am to give you a Deſcription of Time.</p>
+            <p>1. The time that is afforded us <hi>is very ſhort.</hi> 1 Cor. 7. 29. <hi>But this Iſay Brethren the time is ſhort.</hi> The life of him that lived longeſt that we read of, reaching almoſt to a Thou<g ref="char:EOLhyphen"/>ſand years; what was it, if compared with Eternity? But alas now our days are much ſhorter then the days of thoſe who lived quickly after <hi>Adam</hi> had loſt his Immortality. 'Tis a ſtartling queſtion, <hi>what is your life?</hi> Jam. 4. 14. intimat<g ref="char:EOLhyphen"/>ing, that life is not to be reckoned upon as durable: ſo far
+<pb n="3" facs="tcp:102641:3" rendition="simple:additions"/> from that, that 'tis a <hi>vapour that appears for a little while and then vaniſhes away.</hi>
+            </p>
+            <p>Holy <hi>Job</hi> does ranſack both <hi>earth</hi> and <hi>Sea</hi> and <hi>air</hi> for ſimi-Litudes, to get forth the brevity of humane life. The Poſt that rides in great haſt on earth; the Ship in the Sea under Sail, that hath both Wind and Tide; the Eagle in the air, eſpecially when hungry and flying towards a prey; all theſe are very ſwift. And yet notwithſtanding <hi>Job</hi> ſayes, his <hi>Dayes were ſwifter.</hi> Job 9. 25, 26.</p>
+            <p>2dly. This time that is afforded us <hi>is Day time.</hi> Death is cal<g ref="char:EOLhyphen"/>led Night; and life, Day, which goes before, <hi>John 9. 4. I muſt work the works of him that ſent me while it is day, the night cometh when no man can work.</hi> The ſhining light of the Sun makes the natural day. And the time we have is truly termed a day in a Spiritual ſence, becauſe the Sun of Righte<g ref="char:EOLhyphen"/>ouſneſs is riſen, and the light of the Goſpel ſhines ſo clearly. How plainly and fully in this our day are the things of our peace made known to us.</p>
+            <p>The day of grace did break about four thouſand years be<g ref="char:EOLhyphen"/>fore the Son of God was actually manifeſted in the fleſh. Some Revelation of the Second Adam, was made unto the firſt Adam; and ſtill it grew lighter, and lighter, till at length the <hi>Word was made fleſh,</hi> and <hi>his glory was beheld, the glory as of the only begotten of the Father full of grace and truth.</hi> Joh. 1. 14. Under the new Teſtament diſpenſation there is a fuller diſcovery of the only true God and Jeſus Chriſt whom he hath ſent, the myſtery of Redemption and Salvation is made plain that was hid from ages and generations. There was a vail upon the face of <hi>Moſes</hi> to ſignifie the laws obſcu<g ref="char:EOLhyphen"/>rity: But now in Chriſt the vail is taken away, and <hi>with o<g ref="char:EOLhyphen"/>pen face,</hi> (if we willfully ſhut not our own eyes.) <hi>we may be<g ref="char:EOLhyphen"/>hold the glory of the Lord, and be changed into the ſame Image.</hi> 2 Cor. 3. 17, 18.</p>
+            <p>And as there is a light which ſhines during this day, ſo 'tis deſigned for working, not the unfruitfull works of darkneſs
+<pb n="4" facs="tcp:102641:4"/> but the work of God and Righteouſneſs. <hi>Why ſtand ye here all the day idle?</hi> Mat. 20. 6. Idleneſs in the Market-place, and in the day time, is inexcuſable; eſpecially ſince the calls are ſo loud to come and labour in the Vineyard. 'Tis un<g ref="char:EOLhyphen"/>reaſonable to be ſleeping, to be ſinning, when we ſhould be praying, watching, and working out our own Salvation.</p>
+            <p>3ly. The time that is afforded us is an <hi>accepted time. 2 Cor. 6. 2. Behold now is the accepted time</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, here may be an alluſion unto the year of <hi>Jubilee</hi> which was very acceptable and welcome, becauſe the ſervants then went out free, and the inheritances returned to them from whom they had been alienated. Liberty now is proclaimed in the Goſpel unto the Captives Chriſt hath aboliſhed death, and hath brought to light life and immortality, which though loſt by ſin, may yet be recovered by thoſe <hi>who by patient continuance in well doing ſeek for it.</hi> Rom. 2. 7.</p>
+            <p>
+               <hi>Nune ſunt moliſſima fandi Tempora.</hi> Now is the time to pray: <hi>the Lord looks down from Heaven upon the Children of men to ſee if there be any that do underſtand and ſee God,</hi> Pſal. 14. 2. And he is very near to them who call upon him in truth. Now he will regard cryes, now he will bot<g ref="char:EOLhyphen"/>tle tears, but when this accepted time is gone, cryes in Hell will be loud, and tears will be ſhed to Eternity, but no mer<g ref="char:EOLhyphen"/>ey or compaſſion will be ſhewn. Well may this preſent time be called an accepted time, for while this laſts Chriſt may be accepted by the Sinner, and the Sinner returning with his whole heart will be accepted and received by the Father.</p>
+            <p>1. <hi>Chriſt may be accepted by the Sinner.</hi> He is ſeriouſly and generally offered, the Goſpel is to be preached to every creature, <hi>All this day long he ſtretches forth his hand even to them that are diſobedient and gainſaying.</hi> Rom. 10. ult. The Fountain in the Goſpel is an open Fountain, all that thirſt are invited to come <hi>Rev. 22. 17. The Spirit and the Bride ſay come, and let him that heareth ſay come, and let him that is
+<pb n="5" facs="tcp:102641:4" rendition="simple:additions"/> athirſt come, and whoſoever will, let him drink of the waters of life freely.</hi> And as the thirſty may come for Satisfaction, ſo the defiled may come for Sanctification. Chriſt is now preached, Chriſt is now tendered; and to as many as re<g ref="char:EOLhyphen"/>ceive him, he will be made <hi>Wiſdom and Righteouſneſs and Sanctification and Redemption.</hi>
+            </p>
+            <p>2. During this accepted time, <hi>the ſinner returning will be accepted and received by the Father.</hi> Prodigals though they come home in Raggs, and urged by Neceſſity, being ready to periſh in the farr Country; yet ſhall not find the door ſhut againſt them. The Father exceedingly rejoiced, when his Riotous Son, firſt came to himſelf, and then came home. <hi>Luk. 15. 32. It was meet that we ſhould make merry and be glad, for this thy Brother was dead and is alive again, he was loſt and he is found.</hi> The greatneſs of Guilt, the moſt abomina<g ref="char:EOLhyphen"/>ble Defilements ſhall not be an impediment unto a ſinners reception if he confeſſes his Wickedneſs, and looks to Jeſus, and conſents to be cleanſed as well as pardoned. <hi>Iſa. 55. 7. Let the wicked forſake his way, and the unrighteous man his thoughts;</hi> let him be willing to be made Holy in his Conver<g ref="char:EOLhyphen"/>ſation, and pure in his very Heart alſo; <hi>and let him return to the Lord and he will have mercy upon him; and to our God and he will abundantly Pardon.</hi>
+            </p>
+            <p>4. The Time that is afforded us, is a <hi>time of Salvation.</hi> 2 Cor. 6. 2. <hi>Behold now is the day of Salvation,</hi> therefore re<g ref="char:EOLhyphen"/>ceive not the Grace of God in vain; the tidings of ſalvati<g ref="char:EOLhyphen"/>on ſhould be very welcom to loſt ſinners, nothing more ſuit<g ref="char:EOLhyphen"/>able, nothing more needful unto ſuch then ſalvation; and the more ſad it is to be loſt and to periſh to Eternity, the more ſhould that Everlaſting ſalvation, which the Goſpel does reveal, be valued. Now is the onely time to repent and believe, and receive the onely Saviour, who delivers from ſin and wrath to come; if once any dye in their ſins, there is no comming unto Chriſt to make peace afterwards. We read in Scripture of a <hi>middle wall of partition,</hi> and of
+<pb n="6" facs="tcp:102641:5"/> 
+               <hi>a gulph fixed:</hi> the middle wall of partition, that ſin has made between God and the ſinner, though it be high and great, yet upon Faith and Repentance it will be broken down. <hi>Ezra</hi> acknowledges <hi>that their Iniquities were increaſed over their heads, and their Treſpaſs was grown up to the Heavens.</hi> Ezra 9. and yet they were pardoned. But hereafter a gulph will be fixed, and fixed Eternally, and then ſalvation will be impoſſible, Luk. 16. 26. <hi>And beſides this, there is a great gulph fixed between us and you, ſo that they who would paſſe from hence to you cannot, neither can they paſs to us that would come from thence.</hi>
+            </p>
+            <p>5. The Time that is afforded us is <hi>the laſt time,</hi> 1 John 2. 18. <hi>Little Children it is the laſt time.</hi> Oh be not ſo ſpiritu<g ref="char:EOLhyphen"/>ally childiſh as to play and ſin it all away: In the Original it runs thus, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>It is the laſt hour;</hi> to ſhew how quick<g ref="char:EOLhyphen"/>ly it will be at a perpetual end, ſo as no more is to be ex<g ref="char:EOLhyphen"/>pected: Shortly <hi>the Oath will be ſwore, that there ſhall be time no longer.</hi> Rev. 10. 6. If you prodigally laviſh out your pre<g ref="char:EOLhyphen"/>ſent time of Life and Grace, you will indeed have an Eternity to lament your Folly and Madneſs in; but you ſhall never be turned into the World again, nor truſted with a ſeaſon and means of Grace and Salvation any more. And ſince it is the <hi>laſt time,</hi> we ſhould conclude, that we have none to ſpare for ſin, and that we have none to ſpend in vain.</p>
+            <p>In the Second place, I am to inform you to what end Time is afforded us in this World.</p>
+            <p>1. <hi>That we may ſeek the Lord.</hi> He looks down from Hea<g ref="char:EOLhyphen"/>ven to ſee if <hi>any do underſtand and ſeek God,</hi> Pſal. 14. 2. And ſurely all that do underſtand God or themſelves, will ſeek him with their whole Heart. Now he is near and may be found, this is great encouragement to ſeek: <hi>Iſa. 55. 6. Seek the Lord while he may be found, and call upon him while he is near.</hi> Pſal. 105. 4. <hi>Seek the Lord and his ſtrength, ſeek his face evermore.</hi> Time is given us to ſeek his favour, to turn to
+<pb n="7" facs="tcp:102641:5" rendition="simple:additions"/> him in whom our health and happineſs lies. What is there in this world that deſerves our purſuit? Methinks when we are eager after wealth and pleaſures, we are juſt like Children run<g ref="char:EOLhyphen"/>ing after Feathers and Bubbles blown up in the air, But if we ſeek the Lord, we ſhall find that he is <hi>good,</hi> nay that he is <hi>Best.</hi> Communion with him will cauſe the fulleſt joy: they ſhall have abundant cauſe <hi>to praiſe the Lord that ſeek him and their hearts ſhall live for ever.</hi> Pſal. 22. 26.</p>
+            <p>2dly. Time is given us that <hi>we may obtain liberty by Jeſus Chriſt.</hi> And if <hi>he make us free we ſhall be free indeed.</hi> He can deliver us from condemnation, and from the guilt of ſin which makes us liable thereunto. He can redeem us from the curſe of the law, and reſcue us out of the hand of Satan who is compared to a ſtrong man armed, and who leads all impenitent Sinners captive at his pleaſure. He can redeem us from the bondage of Corruption, which is worſe than the bondage in <hi>Egypt</hi> or <hi>Babylon.</hi> And now is the time to ob<g ref="char:EOLhyphen"/>tain redemption. The price is already paid, all that we have to doe is to come to Chriſt, to receive him, and to reſign our ſelves to him that the redemption which he has purcha<g ref="char:EOLhyphen"/>ſed may be applied.</p>
+            <p>3dly. Time is given us, that <hi>we may ſeek an inheritance in another world,</hi> that we may ſeek for Glory and Honour and Immortality. A Kingdom is revealed to us, on purpoſe that we may be violent and take it by force. In a ſhort time how many Kingdoms did <hi>Alexander</hi> the Great Conquer. But a better and more Glorious and Laſting Kingdom ſhould be in our Eye. And it ſhould be our great deſign, that our time may end in a bleſſed Eternity.</p>
+            <p>4thly. Time is given us, <hi>that by Grace and Holineſs we may be made meet for Glory.</hi> Grace does not indeed merit Hea<g ref="char:EOLhyphen"/>ven, but it makes us meet to be admitted thither. <hi>When we are delivered from the Power of darkneſs, and tranſlated into the Kingdom of the Son of God; when we walk worthy of the Lord unto all pleaſing: being fruitfull in every good
+<pb n="8" facs="tcp:102641:6"/> work and increaſe in the knowledge of God;</hi> then <hi>we are making meet to be partakers of the inheritance of the Saints in light. Col.</hi> 1. 10, 11, 12, 13.</p>
+            <p>Now follows the Application.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> I. Is time afforded us? <hi>Let us be thankfull, for 'tis a talent of great value.</hi> Oh how much may be gain'd in time? So much as may cauſe praiſes and rejoycing to Eternity. Peace may be now made with God. Sanctifying grace may be now wrought: and a title unto and aſſurance of Glory may be now obtained. The triumphant Saints, what im<g ref="char:EOLhyphen"/>provement did they make of time when they were in the world, and what bright Crowns do they now wear.</p>
+            <p>God hath dealt otherwiſe with Man then he did with the Apoſtate Angels, no time at all between their Sin and Puniſh<g ref="char:EOLhyphen"/>ment. He <hi>ſpared not the Angels that ſinned,</hi> but immediately <hi>caſt them down to Hell and delivered them into chains and dark<g ref="char:EOLhyphen"/>neſs to be reſerved unto the Judgment of the great day.</hi> 2 Pet. 2. 4. There was no door of hope opened to them, no offer of grace, no reprieve granted; no time or ſeaſon of mercy allowed them, but they fell like lightning ſuddenly, remark<g ref="char:EOLhyphen"/>ably, and by ſuch a force that they could not withſtand, and that from the higheſt Heaven to the loweſt Hell. The De<g ref="char:EOLhyphen"/>vil envies ſinfull man his <hi>time,</hi> and would fain ſteal it from him, therefore Man ſhould be the more thankfull for it, and be the better Husband of it.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> II. If time be afforded us here in this world, <hi>then we ſhould be the more vigilant leaſt it be ſtolen away from us.</hi> A great many theives of time there are which we ſhould watch a<g ref="char:EOLhyphen"/>gainſt. The works of darkneſs require time to do them in. Ungodly company how much time do they conſume! Im<g ref="char:EOLhyphen"/>pertinent and corrupt communication, cauſes hours to paſs away unſenſibly which can never be recalled. Sinfull thoughts, unruly paſſions, wicked projects, worldly cares
+<pb n="9" facs="tcp:102641:6" rendition="simple:additions"/> ſpeculative filthineſs and uncleanneſs, ambitious and cove<g ref="char:EOLhyphen"/>tous deſignes; oh what inſatiable cormorants are all theſe of precious time. Moſt loſe both time and ſouls by ſuch things as theſe; therefore Watch and Pray that your time may be better employed; then to be waſted all of it, ſo contrary unto the end for which it was vouchſafed, namely unto Gods diſhonour and your own deſtruction.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> III. If time only be afforded here in this world; <hi>then ſurely we have enough to do with it.</hi>
+            </p>
+            <p>The Favour of God is to be intreated.</p>
+            <p>The Nature is to be changed, innumerable luſts are to be mortified.</p>
+            <p>Satan is to be reſiſted who is ſubtle, powerful, and unwea<g ref="char:EOLhyphen"/>ried in his aſſaults,</p>
+            <p>The World is to be Conquered:</p>
+            <p>Self is to be denied and overcome;</p>
+            <p>The Heart is to be watch'd and kept with all diligence be<g ref="char:EOLhyphen"/>cauſe ſo Treacherous and Deceitfull.</p>
+            <p>Many Ordinances are to be engaged in, and in every or<g ref="char:EOLhyphen"/>dinance we ſhould be ſincere and ſpiritual,</p>
+            <p>The Commands of God are exceeding broad, and yet we muſt have reſpect unto them all.</p>
+            <p>Every Relation calls for Duty, and every Duty ſhould be filled with Grace;</p>
+            <p>We have Souls that are of great worth and in great danger, to ſave;</p>
+            <p>We have Hell to eſcape, Heaven to ſecure, and Eterni<g ref="char:EOLhyphen"/>ty to provide for. Surely <hi>Here's work enough to do.</hi> Hippo<g ref="char:EOLhyphen"/>crates of old complained in the beginning of his <hi>Aphoriſms</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>Art was long but Life was ſhort</hi> but much more to the purpoſe may it be ſaid, that a <hi>Christi<g ref="char:EOLhyphen"/>ans work is long and great, but his time is ſhort to do it in.</hi> Where is loytering then? it is excluded. Surely fooliſh as well
+<pb n="10" facs="tcp:102641:7"/> as curſed is he that waſts his time, and neglects to do his main work, or does it negligently.</p>
+            <p>Doct. 2. The ſecond Doctrine follows, which is this. <hi>A Chriſtians time is a time of Sojourning. David</hi> lookt upon himſelf as no other then a Sojourner, and confeſſes that all his Fathers were ſo before him. Pſal. 39. 12. <hi>Hear my prayer O Lord, give ear unto my cry, hold not thy peace at my tears, for I am a ſtranger with thee, and a ſojourner as all my Fathers were.</hi>
+            </p>
+            <lg>
+               <l>A Chriſtians time may well be called a time of Sojourning;</l>
+               <l>For while he is in this World,</l>
+               <l>He is abſent from his own Country.</l>
+               <l>His heart is upon his Country.</l>
+               <l>He is going towards his Country.</l>
+               <l>And it will not be long ere he be arrived ſafe in his Country.</l>
+            </lg>
+            <p>1. While the Chriſtian lives here, <hi>he is abſent from his Country.</hi> The time of Sojourning is in the Original, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Now they are ſaid <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to ſojourn; who are Strangers in another country, and are not yet come to their deſired home. Chriſtians are not of this World, but in regard of their new Nature they are born <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from above <hi>Joh.</hi> 3. 3. Chriſt ſpeaks thus concerning his Diſciples, <hi>They are not of the World even as I am not of the World. Sanctifie them through thy truth, thy word is truth,</hi> Joh. 17. 16, 17.</p>
+            <p>The Chriſtian before his Converſion is a ſtranger to God and a forreigner; but aſſoon as ever he is regenerated, he is choſen out of the World, and becomes a ſtranger in it, and is <hi>made a Fellow-citizen with the Saints, and of the houſ<g ref="char:EOLhyphen"/>hold of God.</hi> Eph. 2. 19. In regard of his new Birth he is of Heavenly extraction, God is his Father, the Heavenly Jeru<g ref="char:EOLhyphen"/>ſalem his Mother, his Inheritance and Manſion is above, and while at home in the body he is abſent from the Lord and from his Manſion; and can never be at reſt, till he has left
+<pb n="11" facs="tcp:102641:7" rendition="simple:additions"/> the body, and is preſent with the Lord in thoſe Manſions which he is gone to prepare.</p>
+            <p>2. While the Chriſtian lives in this World, <hi>his Heart is upon his Country.</hi> His <hi>Treaſure</hi> is there, no wonder if <hi>his heart</hi> be there alſo. <hi>Mat.</hi> 6. 21. There are many indeed <hi>who walk as Enemies to the croſs of Chriſt, whoſe end is De<g ref="char:EOLhyphen"/>ſtruction, whoſe God is their Belly, whoſe glory is in their ſhame, and who mind earthly things.</hi> But the ſincere Chriſtian, <hi>his Converſation is in Heaven.</hi> Phil. 3. 18, 19, 20. His Faith is <hi>the ſubſtance of things hoped for, and the evidence of things not ſeen,</hi> and by the eye of Faith he looks within the Vail, and rejoyceth in hope of the Glory of God. He ſees his Salva<g ref="char:EOLhyphen"/>tion approaching nearer and nearer every day; under all his heavineſs he comforts himſelf <hi>with that joy which is ſet before him,</hi> and he patiently labours, and is unwearied though he a<g ref="char:EOLhyphen"/>bounds in the work of the Lord, knowing that his labour will not be in vain, for all his pains will be fully and for ever recompenced by that <hi>reſt that remains for the People of God.</hi> Heb. 4. 9.</p>
+            <p>3. The Chriſtian is continually <hi>going towards his Country.</hi> This World is the Inn where he lodges, the way where he paſſes, but his face is towards <hi>Zion.</hi> Juſt like our Lord who though he paſſed through a Village of the <hi>Samaritanes, yet ſet his face ſtedfaſtly towards</hi> Jeruſalem. <hi>Luk.</hi> 9. 51, 52, 53. All the good actions of a Chriſtian are ſteps towards Heaven; all the holy Duties which he performs ſeriouſly, do mightily advance him in his way thither: his holy and heavenly Meditations, Deſires, and Affections, do ſtrangely ſpeed him towards home. The Chriſtian growes in Grace, and ſo becomes riper for Glory; he adds <hi>to his faith virtue, and to virtue knowledge, and to knowledge temperance, and to tem<g ref="char:EOLhyphen"/>perance patience, and to patience godlineſs,</hi> &amp;c. and theſe things being in him and abounding, <hi>an abundant entrance is ad<g ref="char:EOLhyphen"/>miniſtred to him into the everlaſting Kingdom.</hi> 2 Pet. 1.</p>
+            <pb n="12" facs="tcp:102641:8"/>
+            <p>4. It will not be long ere the <hi>Chriſtian be arrived ſafe in his Country.</hi> Hark to the Apoſtle, <hi>Heb. 10. 37. Yet a little while, and he that ſhall come will come and will not tarry.</hi> This Earthly houſe of Believers Tabernacle, cannot ſtand long, and aſſoon as ever it is diſſolved, <hi>they have a building of God, an houſe not made with hands, Eternal in the Heavens.</hi> 2 Cor. 5. 1. The Believers time of Warfare is ſhort, and then he is diſcharged; but his Triumph will be Eternal. He has a ſhort cut to a long, nay an Eternal, but a Bleſſed home.</p>
+            <div type="application">
+               <head>Application.</head>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> I. Of Reproof to the Ungodly, <hi>whoſe time is as ſhort as the time of Believers, and yet they live as if they were to live here alwaies.</hi> How many Covetous and Voluptuous Ones are there, who are ſo eager after Wealth and Pleaſures, that they could hardly be more earneſt, ſuppoſe their Wealth and Pleaſures could be enjoyed to Eternity. It was a juſt complaint of <hi>Seneca,</hi> lib. de Brevitate vitae. cap. 4. <hi>Tanquam ſemper victuri vivitis, nunquam vobis fragilitas vestra ſuccur<g ref="char:EOLhyphen"/>rit, non obſervatis quantum temporis tranſierit, velut ex pleno &amp; abundanti perditis. Omnia tanquam mortales timetis; om<g ref="char:EOLhyphen"/>nia tanquam immortalis concupiſcitis.</hi> You live as if you were to live alwaies, you make no good uſe of your own frailty, you obſerve not how much time is paſt already; but ſtill loſe more as out of a full Stock, and as if all would never be done; and your deſires are eager after Earthly things, as if your ſelves were Immortal, and were never to be part<g ref="char:EOLhyphen"/>ed from them. Let thoſe who profeſſe Chriſtianity bluſh and mend, when they hear an Heathen talk at ſuch a rate. Let ſinners learn the art of Holy Arithmetick, and <hi>ſo num<g ref="char:EOLhyphen"/>ber their dayes as to apply their hearts unto Wiſdom.</hi> Satan is
+<pb n="13" facs="tcp:102641:8"/> the great Cheat, who endeavours to make you loſe your time; he has cheated you of much already, if he gets all, he will get you and all; for after Death their is no getting out of his ſnare.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> II. Since wicked men are to live but a ſhort time, as well as Believers, <hi>ſurely their good things cannot be enjoyed long.</hi> The Rich man in the Goſpel, was <hi>clothed in Purple and fine linnen, and fared ſumptuouſly every day</hi> while he lived. But death ſtript him of his gay clothing, took him away from his well-ſpread Table; and 'twas ſaid to him, <hi>Son, remember thou in thy life-time,</hi> no longer than Life-time, <hi>receivedſt thy good things, and</hi> Lazarus <hi>evil things; but now he is Comforted, and thou art tormented.</hi> Luk. 16. 25. 'Twas true in general, that <hi>Zophar</hi> ſpake, though he made a wrong Application of it to <hi>Job</hi> who was more righteous then himſelf. <hi>Job. 20. 4, 5. Knoweſt thou not this of old, ſince man was placed upon Earth, that the Triumphing of the wicked is ſhort, and the joy of the Hypocrite but for a moment?</hi> How ſhould it terrifie wicked men to conſider, that their pleaſures can be but for a ſeaſon, but their pains and torment will be endleſs. Their Honour is fading but their <hi>Contempt and Shame will be everlaſting.</hi> Dan. 12. 2. their gains are inconſiderable and will quickly be gone, but their loſs will be of no leſs then of their Souls and Hea<g ref="char:EOLhyphen"/>ven, and can never be repaired.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> III. Since a Chriſtians time is a time of ſojourning; it may comfort him, <hi>that as himſelf is not, ſo neither can his troubles be very long lived.</hi> Afflictions are therefore the lighter becauſe <hi>they are but for a moment</hi> 2 Cor. 4. 17. Now Believers are in their minority and conſequently under the Diſcipline of the Rod, but after Death they will be perfect, and then correction will be needleſs. Now they are aſſaulted with Satans Temptations he is liberall of his fiery darts, and they have much ado with the Shield of Faith and the Armour of
+<pb n="14" facs="tcp:102641:9"/> God to defend themſelves, but within a little while they ſhall be quite out of his reach; and a man may as eaſily with an Arrow ſhoot and hit the Sun in the Firmament, as the Devil with any Dart, hit a Saint in the third Heaven. Now Believers groan becauſe of a body of ſin, and death that they carry about with them; but when they put of their earthly Tabernacle, this body of ſin ſhall be put off for ever: and through the natural body ſhall be raiſed a ſpiritual one, yet the body of ſin ſhall never have reſurrection. Within a little while, God ſhall wipe away all tears from his Peoples Eyes, which implies, that both ſin and ſuffering which are the cauſes of ſorrow will be at an end. The Be<g ref="char:EOLhyphen"/>liever when he dies he dies in the Lord, and Chriſt who has the Key of Hell, keeps that ſhut againſt him: as for Pur<g ref="char:EOLhyphen"/>gatory he did before believe, and he now finds to be a meer fiction, for the <hi>ſpirit ſayth that from thenceforth they reſt from their labours, and their works follow them.</hi> Rev. 14. 13.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> IV. Of Counſel unto all. Since your time is but as a time of ſojourning, let my advice, in theſe Scripture-parti<g ref="char:EOLhyphen"/>culars, be acceptable.</p>
+               <p n="1">1. You <hi>that have Wives be as though you had none.</hi> 1 Cor. 7. 29. and by a parity of reaſon you that have Husbands be as though ye had none, and you that have Children be as if you had them not. Sit looſe from your very Relati<g ref="char:EOLhyphen"/>ons. Love them indeed you ought; and eſpecially to their ſouls expreſs your love; but remember your happineſs does not lye in the enjoyment of them, but in the enjoy<g ref="char:EOLhyphen"/>ment of God, who loves infinitely better then the tendereſt relations can, and who lives infinitely longer.</p>
+               <p n="2">2. <hi>You that weep be as though you wept not.</hi> 1 Cor. 7. 30. let not your tears run waſte, If you ſpend them upon ſin, God has a bottle to put them in, but if you mourn immo<g ref="char:EOLhyphen"/>derately, for loſſes, croſſes and afflictions, as common wa<g ref="char:EOLhyphen"/>ter they are ſpilt upon the Ground. That which you ſo la<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:102641:9"/> the loſs of, be it Friend, Eſtate, or any other outward comfort it could not have been enjoyed long, becauſe Life it ſelf is but a time of ſojourning. How vain are thoſe things we are ſo fond of while we have them, and when by their be<g ref="char:EOLhyphen"/>ing taken away they further diſcover their vanity; why ſhould our eyes be ſo full of tears, and our hearts ready to break with ſorrow at parting.</p>
+               <p n="3">3. You <hi>that rejoyce be as though ye rejoyced not.</hi> The abſence of the creature ſhould not caſt you down, the preſence of the creature ſhould not lift you up. 'Twas obſerved concerning an Heathen that being baniſhed by an ungratefull Country, and afterwards recalled, <hi>he went and came back with the ſame countenance,</hi> neither was his ſorrow exceſſive when he went, nor his joy when he returned, but there was an unchanged evenneſs in his ſpirit, though there was ſo great a change in his condition. It was a notable ſaying of <hi>Seneca, Res ſevera eſt gaudium.</hi> Joy is a very ſerious thing, therefore 'tis unrea<g ref="char:EOLhyphen"/>ſonable to rejoyce in a thing of nought. Worldly joy is mad<g ref="char:EOLhyphen"/>neſs, and carnal mirth what doth it? If you rejoyce barely becauſe you proſper in the world and increaſe in Riches, and have ſenſual delights at command; of how little a mat<g ref="char:EOLhyphen"/>ter makes fools merry. Many that are deſpairing in Hell, were once thus merry as well as you. Oh let your joy be turned into a right Channel, Reioyce in God, and his great goodneſs, rejoyce and work righteouſneſs; rejoyce in Chriſt Jeſus, here's no danger of exceſs, though <hi>joy be unſpeakable and full of Glory.</hi> 1 Pet. 1. 8.</p>
+               <p n="4">4. You <hi>that buy, be as though you poſſeſſed not.</hi> Why ſhould your hearts be glued to an eſtate? why ſhould you ſtick faſt in the thick clay? Riches are not for ever neither doth a Crown endure to every Generation. <hi>You brought nothing in<g ref="char:EOLhyphen"/>to this world, and 'tis certain you can carry nothing out.</hi> 1. Tim. 6. 7. You preſent ſubſtance is not enduring, and therefore though you have it in your hands, let it not get into your heart. <hi>David</hi> Cautions <hi>If Riches increaſe, ſet not your hearts
+<pb n="16" facs="tcp:102641:10"/> upon them.</hi> Pſal. 62. 10. they are uncertain Riches at the beſt. That is a Scripture which ſhould wean the heart from an eſtate, and draw it unto God. <hi>Pſal 39. 6, 7. Surely every man walketh in a vain ſhew, ſurely they are diſquieted in vain, he heepeth up Riches and knoweth not who ſhall gather them. And now Lord what wait I for? my hope is in thee.</hi>
+               </p>
+               <p n="5">5. You <hi>that uſe this world ſhould take heed of abuſing it for the faſhion of this world paſſeth away.</hi> 1 Cor. 7. 31. <hi>Licitus peri<g ref="char:EOLhyphen"/>mus omnes.</hi> Take heed of periſhing by the abuſe of thoſe things the uſe of which is lawfull. It is ſaid concerning the Old World before the Flood came, and concerning <hi>Sodom</hi> and <hi>Gomorrha</hi> before there overthrow by Fire and Brimſtone; <hi>they eat they drank, they bought they ſould, they planted they builded, they married and were given in marriage.</hi> Luke 17. 26.—30. None of theſe things were in themſelves unlawfull, but they were to eager after them, their hearts were ſo ſet upon them, that God and Duty and Heaven were neglected, and they grew ſecure in their Earthlineſs and Wickedneſs; and then followed ſudden and ſignal ruine and deſtruction.</p>
+               <p n="6">6. Since your time is ſhort and but a time of ſojourning; <hi>by your ſerious diligence, declare plainly that you ſeek a better Country than is to be found on earth.</hi> By your pains and ſtriving convince a careleſs world, tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heaven does not deſerve to be neglected. Imitate thoſe worthy and believing Strangers and Pilgrims of old, whom the Apoſtle ſpeaks of. <hi>Heb. 11. 14, 15, 16. For they that ſay ſuch things declare plainly, that they ſeek a Country, and truly if they had been mind<g ref="char:EOLhyphen"/>full of that Country from whence they came out, they might have had opportunity to have returned; but now they deſire a better Country, that is an Heavenly; wherefore God is not aſhamed to be called their God; for he hath prepared for them a City.</hi> Be not ſlothfull but followers of them who through faith and patience inherit the promiſes. A Crown, an Eternal Inheri<g ref="char:EOLhyphen"/>tance, a Kingdom is before you. Be not weary in well do<g ref="char:EOLhyphen"/>ing, Fight the good Fight of Faith, lay hold on Eternal life,
+<pb n="17" facs="tcp:102641:10" rendition="simple:additions"/> hold faſt, and hold out unto the end <hi>that no man take your crown from you.</hi> Rev. 3. 11.</p>
+               <p>Doct. 3. I come unto the third and laſt Doctrine which is this <hi>our time of ſojourning is to be paſt in fear.</hi> Fear is a grace of ſo great neceſſity and uſefulneſs, that ſometimes it is put for the whole of Religion. <hi>Job. 28. 28. <g ref="char:V">Ʋ</g>nto man he ſaith behold, the fear of the Lord that is Wiſdom.</hi> Religion is the tru<g ref="char:EOLhyphen"/>eſt wiſdom in the World, <hi>and to depart from evil is underſtand<g ref="char:EOLhyphen"/>ing.</hi> As nothing can be done acceptably without faith, ſo no<g ref="char:EOLhyphen"/>thing can be done ſeriouſly without fear. We muſt feed our ſelves in fear, we muſt worſhip in fear, and paſs our time in fear. In the handling of this Doctrine, I ſhall firſt ſpeak concerning this fear, and ſecondly give you good reaſons, why our time is to be paſt in fear, and then conclude with the Uſes.</p>
+               <p>In the firſt place I am to ſpeak concerning this fear. And</p>
+               <p n="1">1. Fear may relate unto <hi>God.</hi> We ought to ſanctifie him in our hearts by making him our fear, and by making him our dread. 'Tis excellent counſel of <hi>Solomon. Prov. 23. 17, Be thou in the fear of the Lord all the day long.</hi> We ſhould ſet God alwaies before us, and ſtand in awe of him perpetu<g ref="char:EOLhyphen"/>ally, this would make us to walk exactly, and look better to our wayes and hearts. At all times, believe that you are obſerved by an allſeeing eye; believe that God is all po<g ref="char:EOLhyphen"/>werfull as well as allſeeing and that he is infinitely pure and holy and righteous, as well as powerfull, ſo that he can take no pleaſure in wickedneſs, but hates all the workers of ini<g ref="char:EOLhyphen"/>quity. Remember that God is <hi>Teſtis. Judex &amp; Vindex,</hi> a witneſs of all that's done at preſent. He will judge the world in righteouſneſs; and he will take vengeance on them that know not God, and who diſobey the Goſpel. Nay let his very goodneſs ſtirr up fear in you, leſt you miſs of that goodneſs; and leaſt ſlighted goodneſs end in the ſoreſt and
+<pb n="18" facs="tcp:102641:11"/> greateſt ſeverity. Let that Prophecy be accompliſhed in you, Hoſ. 3. 5. <hi>They ſhall fear the Lord and his goodneſs in the latter dayes.</hi>
+               </p>
+               <p n="2">2. Fear may relate unto <hi>Satan.</hi> We ought to be jealous and afraid, leſt that evil One rob us of this Treaſure of Pre<g ref="char:EOLhyphen"/>cious Time. He had never any time of Mercy granted to him, therefore he envies ours; and indeavours to hinder our Repentance, though <hi>we have ſpace to Repent in.</hi> We that have ſuch an Adverſary to deal with, who has ſo many Wiles and Devices to bring about our ruine, and who if he can but make us trifle out our preſent time, will compaſs his end, which is our Eternal Deſtruction; it certainly concens us to have our eyes in our heads, to be <hi>ſober and vigilant, and to reſiſt him being ſtedfaſt in the Faith;</hi> and there ſhould be a continual fear, leſt we <hi>be beguiled through his ſubtlety.</hi> 1 Pet. 5. 8, 9. 2 Cor. 11. 3.</p>
+               <p n="3">3. Fear, may relate unto <hi>this World.</hi> The World is ſo ſuitable unto the ſenſes and fancies of men, that 'tis the great Engine which the Prince of the Power of the Air uſes to batter Souls with: with this bait he catches them. By the World and the things of the World, he draws them away from God, and intices them into the way which leads to Hell. When he Tempted the Captain of our Salvation, he hoped <hi>that all the Kingdoms of the World and all the Glory of them,</hi> would be lookt upon as a conſiderable offer. <hi>Mat.</hi> 4. And though our Lord diſdained the World, and comman<g ref="char:EOLhyphen"/>ded the God of it to get behind him, yet the offer of the World is taking with the moſt, and therefore our fear and jealouſie ſhould be raiſed. The World is apt to ſeize upon our time and thoughts and love. And truly many give the World their whole time, they ſlight Spiritual things as ima<g ref="char:EOLhyphen"/>ginary, (which yet are moſt real) and purſue after the World all their days, and though in old Age they have one foot as it were in the Grave, yet their covetouſneſs after it, does not abate but is rather augmented. When we are prone to
+<pb n="19" facs="tcp:102641:11" rendition="simple:additions"/> laviſh out our time upon the World, that Scripture ſhould check us, 1 John 2. 15, 17. <hi>Love not the world neither the things that are in the world, if any man love the world the love of the Father is not in him. The world paſſeth away and the luſts thereof but he that doth the will of God abideth for ever.</hi>
+               </p>
+               <p n="4">4. Fear may relate <hi>unto our ſelves.</hi> Our ſpirits are trea<g ref="char:EOLhyphen"/>cherous, therefore we ſhould fear leſt they deal deceitfully with God and with us. Our Souls are of great worth, there<g ref="char:EOLhyphen"/>fore we ſhould fear continually while we are in this World, leſt any wrong be done to them, and eſpecially leſt they be loſt and miſcarry for ever. If we are ſenſible of the worth of our own Souls, and fear their being injured; ſurely we ſhall be ſenſible of the worth of time too, and take care that it be improved to the Souls advantage.</p>
+               <p n="5">5. Fear may relate unto <hi>our Time.</hi> We ſhould fear leſt it be all gone before our great work is done. Oh how faſt doth it poſt away! Our glaſs has been running ever ſince we were born, and 'tis nearer and nearer being out every, moment, and when once 'tis out the glaſs will be taken down, and never turned or ſet up any more. Time is painted with wings, and is bald behinde; ſhould we not fear, and catch Time by the forelock? The Country-man that ſaw the River run ſo faſt concluded unreaſonably that the water would quickly be all gone, then he might go over dryſhod. But when we behold time running away 'tis reaſonable to conclude, 'twill quickly be all gone, and therefore ſhould fear dallying and delaying as to that great buſineſs, for which our time was given us. Time is haſtening to an end, oh let us fear, and <hi>haſten our eſcape, from the windy Storm and Tempeſt.</hi> Let us haſten to the Lord Jeſus that we may be reconciled, healed, and ſaved, <hi>let us make haſt and not delay to keep Gods commandments,</hi> Pſal. 119. 60. It is called <hi>to day,</hi> and to day may be the laſt call, and therefore harden not your hearts any longer, <hi>Heb.</hi> 3. 7, 8.</p>
+               <pb n="20" facs="tcp:102641:12"/>
+               <p>In the ſecond place I am to give you the Reaſons why our Time ſhould be paſt in fear.</p>
+               <p n="1">1. This fear will make us <hi>watchful, and to stand upon our guard,</hi> and thus to do is for our Intereſt, conſidering we are militant, are engaged in a war with enemies which are powerfull and unwearied, and exceeding watchfull to take all advantages againſt us. The great Captain gives this Word Watch, unto all the Saints and Souldiers, <hi>Mar. 13. ult. What I ſay unto you I ſay unto all Watch.</hi>
+               </p>
+               <p n="2">2. This fear ſhould make us <hi>Pray.</hi> And to how good an account does that Time turn which is ſpent in the duty of prayer. The Devil dreads Prayer, God is delighted with it, and how is the ſoul both pleaſed and profited. He that gives himſelf to prayer gives himſelf unto God, and what will God deny to ſuch an one?</p>
+               <p n="3">3. This fear will <hi>make Time to be redeemed,</hi> former neg<g ref="char:EOLhyphen"/>ligence will be lamented, and diligence for the future doubled.</p>
+               <p n="4">4. This fear will cauſe us <hi>to work out our own Salvation,</hi> and to depend on God to <hi>work in us both to will and to do,</hi> and then we ſhall will ſincerely, then we ſhall work to pur<g ref="char:EOLhyphen"/>poſe, <hi>Phil.</hi> 2. 12, 13.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> I. Of reproof to wicked men, who inſteed of paſ<g ref="char:EOLhyphen"/>ſing their Time in fear, <hi>are moſt ſottiſhly and ſecurely pro<g ref="char:EOLhyphen"/>digal of it.</hi> If an houſe be loſt by fire, if a ſhip be loſt by Sea, if an Eſtate be loſt by fraud, or if an husband, wife, or childe, be loſt by death, how paſſionately are theſe loſſes talked. off But the loſs of Time who laments? Secure ſouls look upon this loſs as not worth taking notice of. <hi>Conſider O tranſgreſſours, and ſhew your ſelves men.</hi> Is it reaſonable for you to ſquander away your Time ſtill, who have not one ſin pardoned, who have not ſet <hi>one ſtep</hi> in heavens way, who have not done the <hi>leaſt work</hi> for
+<pb n="21" facs="tcp:102641:12" rendition="simple:additions"/> God, and who have not made <hi>any the leaſt proviſion for Eternity!</hi>
+               </p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> II. It ſerves to inform us of the <hi>wiſdom as well as hap<g ref="char:EOLhyphen"/>peneſs of thoſe who fear always,</hi> Prov. 28. 14. <hi>Happy is the man that feareth alwayes, but he that hardneth his heart ſhall fall into miſchief.</hi> They are indeed the fools who were not afraid that ſin and the world ſhould have their time, and Hell and the Devil their Souls; but they are truly wiſe that fear God, and employ their time in keeping his command<g ref="char:EOLhyphen"/>ments, for this is the whole of man.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> III. Of Exhortation, Let me perſwade all to paſs the time of your ſojourning here in fear. Let the time paſt of your life ſuffice to have made proviſion for the fleſh to ful<g ref="char:EOLhyphen"/>fil the luſts of it, and be prevailed with to live <hi>the reſt of your time in the fleſh, not to the luſts of men but unto the will of God, 1 Pet.</hi> 4. 2, 3.</p>
+               <p>I. Conſider when you are tempted fearleſſly to miſpend time, <hi>what apprehenſions others have of time.</hi>
+               </p>
+               <p n="1">1. <hi>Some perhaps are upon a ſick bed, their conſciences awakened, and in a raging manner reproaching them with their folly in counting time no more precious;</hi> they are upon the brink of deſpair, and ready to conclude, that the day of grace is paſt, and the mercy of the Lord clean gone for ever. <hi>Oh mihi praeteritos referat ſi Jupiter annos!</hi> they wiſh they had their dayes to live over again, that God and Chriſt; their ſouls and heaven might have more of their time and pains and labour.</p>
+               <p n="2">2. How <hi>many ſerious Chriſtians may be upon their knees,</hi> when thou art tri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling thy time away, they are ſpending theirs in prayer and ſupplication, with ſtrong crying and tears they lament their ſin, they wreſtle earneſtly for par<g ref="char:EOLhyphen"/>don and grace; oh with what violence do they cry to be delivered from the bondage of corruption, and from eter<g ref="char:EOLhyphen"/>nal
+<pb n="22" facs="tcp:102641:13"/> condemnation; they do not put the evil day far from them, but take care to uſe all the time well before it comes, <hi>that it may not come upon them as a ſnare at unawares,</hi> Luk. 21. 34, 35, 36.</p>
+               <p n="3">3. When tempted to trifle time away, think with your ſelves, <hi>how many millions in Hell are bewailing the loſs of time.</hi> Oh with what anguiſh do they reflect upon their miſpent dayes, and weeks, and months, and years! Could we ask the <hi>Sodomites,</hi> in whom abundance of idleneſs was found, what they think of time now? ſurely they would anſwer what <hi>Solomon</hi> ſayes concerning wiſdom. <hi>That the merchandiſe</hi> of Time <hi>is better then the merchandiſe of ſilver, and the gain thereof then fine gold,</hi> that Time <hi>is more precious then rubies, and that all the things thou canſt deſire are not to be compared to it.</hi>
+               </p>
+               <p n="4">4. Thoſe that <hi>in glory are reaping the fruits of ſerious di<g ref="char:EOLhyphen"/>ligence, what thoughts have they of Time!</hi> they don't at all repent they ſpent their lives different from the common cu<g ref="char:EOLhyphen"/>ſtom of the world, the yare far from grudging their pains and labour for a moment, who have received the recompence of reward, even a far more exceeding and eternal weight of Glory. Thus think what apprehenſions others have of time.</p>
+               <p>II. Remember you <hi>are upon your good behaviour, and if you ſtill miſpend your time it may be ſhortned.</hi> The Lord will not endure to have his Talents ſtill abuſed; the ſlothful ſervant that is not a good husband, and much more he that is an ill husband, ſhall have his Talent taken away from him. The parable of the figtree that was fruitleſs though planted in the vineyard is remarkable. The Lord of the Vineyard after three years expectation of fruit in vain, ſays <hi>cut it down why cumbreth it the ground.</hi> The dreſſer of the vineyard interceds for <hi>one year longer,</hi> but if no fruit then be found, it <hi>muſt be cut down</hi> and made fewel for the fire without remedy, <hi>Luk.</hi> 13. 6, 7, 8, 9.</p>
+               <pb n="23" facs="tcp:102641:13" rendition="simple:additions"/>
+               <p>3 Let <hi>death be ſeriouſly thought of.</hi> That <hi>enemy upon the pale horſe</hi> has been upon its way towards you ever ſince you were born, and every day it comes ſtill nearer. <hi>What man is he that liveth that ſhall not ſee death?</hi> Pſal. 89. 48. And ſhould not you paſs your time in holy fear, who are haſt<g ref="char:EOLhyphen"/>ning to the grave?</p>
+               <p>And here let me ſpeak to the Relations of the <hi>party de<g ref="char:EOLhyphen"/>ceaſed,</hi> whoſe will I underſtand it was that a Sermon ſhould be Preached, and after Printed, I ſuppoſe for his Relations Spiritual benefit. I was a ſtranger to him, and therefore may juſtly be excuſed if I enlarge not in his commendati<g ref="char:EOLhyphen"/>on. The dead as they do not underſtand, ſo neither do they need our praiſes. That which will be profitable to the living to take notice of, is this, <hi>That he dyed young.</hi> In the very prime of his youth, after he had been about half a year an husband, he was taken away. What age or con<g ref="char:EOLhyphen"/>dition, or place can be named in which we may be ſecure from Death? Oh reckon not upon long life, for then you will live careleſly, but prepare to follow your deceaſed friend. He found it hard as he ſaid, to repent and believe, do you pray hard that repentance and faith may be given you. What apprehenſions had he of the worth of Time and Chriſt when he was ſtepping into Eternity? Oh let both Chriſt and Time be precious to you now.</p>
+               <p>4. Believe <hi>a judgement to come, and that it will be without reſpect of perſons,</hi> this is mention'd as a motive in the verſe where my text lyes. God will call you to a ſevere account ſhortly for all the Time he has given you in this world; fear to be found evil and ſlothful ſervants, for the doom of ſuch will be dreadful, <hi>Matth. 25. 30. Caſt ye the unprofita<g ref="char:EOLhyphen"/>ble ſervant into outer darkneſs, there ſhall be weeping and gnaſh<g ref="char:EOLhyphen"/>ing of teeth.</hi> God will judge you according to your works: Oh fear to employ your Time in the unfruitful works of
+<pb n="24" facs="tcp:102641:14"/> darkneſs. The righteous themſelves will ſcarcely be ſaved, not without great difficulty, though none of them ſhall miſs of Salvation. Certainly all ſhould be awakened, with fear and trembling, to work, and to improve the time of their ſojourning, when they read 1 <hi>Pet. 4. 17, 18. What ſhall the end be of them that obey not the goſpel of God. And if the righteous ſcarcely be ſaved, where ſhall the ungodly and the ſinner appear?</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:102641:14" rendition="simple:additions"/>
+            <list>
+               <head>Books Publiſhed by Mr. <hi>Nath. Vincent,</hi> and Sould by <hi>Tho. Parkhurſt</hi> at his ſhop in <hi>Cheapſide,</hi> and <hi>S. B.</hi> at the <hi>Bible</hi> on <hi>London Bridge</hi> under the Gate.</head>
+               <item>COnverſion of a Sinner and Day of Grace.</item>
+               <item>Covert from the Storm.</item>
+               <item>Worthy Walking.</item>
+               <item>The Spirit of Prayer, with Directions for Praying.</item>
+               <item>Heaven or Hell upon Earth, or, A Diſcourſe concerning Conſcience.</item>
+               <item>The Little Childs Catechiſme, whereunto is added ſeve<g ref="char:EOLhyphen"/>ral ſhort <hi>Hiſtories</hi> which may Pleaſe and Profit them; with Directions how to Pray.</item>
+               <item>A Sermon at Mr. <hi>Janewaies</hi> Funeral.</item>
+               <item>A Sermon at Mr. <hi>Cawtons</hi> Funeral.</item>
+            </list>
+            <list>
+               <head>Books lately Printed.</head>
+               <item>A hundred ſelect Sermons of <hi>Tho. Horton,</hi> D. D. late of St. <hi>Hellens, London.</hi>
+               </item>
+               <item>Doctrine of Providence by <hi>John Collins,</hi> D. D.</item>
+               <item>Narrative of the Plott by Dr. <hi>Oates.</hi>
+               </item>
+               <item>Proteſtants Anſwer to that Queſtion, Where was your Church before <hi>Luther?</hi> By <hi>Tho. Doolittle.</hi>
+               </item>
+               <item>Popery no Friend to Peace, an Enemy to Government and mens Souls.</item>
+               <item>Which is the Church, by <hi>Rich. Baxter.</hi>
+               </item>
+               <item>An Expoſition on the firſt five Chapters of the <hi>Revelati<g ref="char:EOLhyphen"/>ons,</hi> By <hi>Charles Phelps.</hi>
+               </item>
+               <item>A Treatiſe of Grace and Temptation, by <hi>Tho. Froyſell.</hi>
+               </item>
+               <item>An Expoſition of the Creed, Ten Commandments and Lords Prayer (according to the Articles and Homilies of the Church of <hi>England</hi>) by <hi>Tho. Adams.</hi>
+               </item>
+               <pb facs="tcp:102641:15"/>
+               <item>Mr. <hi>Lyes</hi> Expoſition of the Aſſemblies Cathechiſm.</item>
+               <item>Principles of Chriſtian Religion, with particular Appli<g ref="char:EOLhyphen"/>cation to each Head; by <hi>Tho. Gouge.</hi>
+               </item>
+               <item>A Glimps of Eternity, to Awaken Sinners and Comfort Saints, by <hi>Abraham Caley.</hi>
+               </item>
+               <item>Fair Warning to <hi>England</hi> to take heed of <hi>Popery,</hi> or the Fiery Jeſuit.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
